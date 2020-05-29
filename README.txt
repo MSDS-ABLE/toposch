@@ -1,0 +1,1 @@
+This is a resource management system based on hadoop-yarn3.1. By customizing DLRA's AM and extending the functions of RM and NM at the same time, a adaptive scheduler based on DLRA's runtime behavior and node load is designed to solve the performance guarantee problem when DLRA is in co-location with batch jobs. The DLRA instance will be uploaded later
